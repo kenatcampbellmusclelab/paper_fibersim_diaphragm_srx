@@ -1,0 +1,31 @@
+{
+  "FiberSim_characterization": {
+    "FiberCpp_exe": {
+      "relative_to": "false",
+      "exe_file": "c:/ken/github/campbellmusclelab/models/fibersim/bin/FiberCpp.exe"
+    },
+    "model": {
+      "relative_to": "this_file",
+      "model_files": [
+        "base_model.json"
+      ],
+      "options_file": "sim_options.json"
+    },
+    "characterization": [
+      {
+        "type": "freeform",
+        "rand_repeats": 1,
+        "m_n": 4,
+        "relative_to": "this_file",
+        "sim_folder": "../sim_data/a/living/force_freq",
+        "protocol_files": [
+            "../sim_data/a/living/generated/protocol/twitch/twitch_prot_1.txt",
+            "../sim_data/a/living/generated/protocol/twitch/twitch_prot_2.txt",
+            "../sim_data/a/living/generated/protocol/twitch/twitch_prot_3.txt"],
+        "output_image_formats": [ "png" ],
+        "figures_only": "False",
+        "trace_figures_on": "False"
+      }
+    ]
+  }
+}
