@@ -1,0 +1,348 @@
+{
+    "FiberSim_batch": {
+        "FiberCpp_exe": {
+            "exe_file": "c:/ken/github/campbellmusclelab/models/fibersim/bin/FiberCpp.exe"
+        },
+        "job": [
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_80_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_80_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_1_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_65_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_65_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_2_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_64_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_64_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_3_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_63_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_63_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_4_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_62_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_62_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_5_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_61_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_61_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_6_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_60_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_60_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_7_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_59_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_59_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_8_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_58_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_58_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_9_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_57_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_57_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_10_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_56_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_56_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_11_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_53_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_53_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_12_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\prot_pCa_45_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\1\\sim_pCa_45_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\1\\sim_options_13_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_80_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_80_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_1_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_65_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_65_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_2_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_64_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_64_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_3_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_63_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_63_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_4_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_62_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_62_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_5_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_61_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_61_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_6_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_60_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_60_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_7_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_59_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_59_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_8_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_58_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_58_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_9_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_57_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_57_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_10_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_56_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_56_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_11_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_53_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_53_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_12_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\prot_pCa_45_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\2\\sim_pCa_45_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\2\\sim_options_13_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_80_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_80_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_1_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_65_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_65_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_2_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_64_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_64_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_3_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_63_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_63_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_4_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_62_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_62_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_5_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_61_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_61_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_6_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_60_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_60_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_7_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_59_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_59_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_8_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_58_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_58_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_9_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_57_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_57_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_10_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_56_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_56_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_11_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_53_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_53_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_12_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\prot_pCa_45_r1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\3\\sim_pCa_45_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_input\\3\\sim_options_13_r1.json"
+            }
+        ],
+        "batch_figures": {
+            "pCa_curves": [
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output",
+                    "data_field": "force",
+                    "output_data_file_string": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\pCa_analysis.xlsx",
+                    "output_image_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\force_pCa",
+                    "output_image_formats": [
+                        "png"
+                    ],
+                    "formatting": {
+                        "y_axis_label": "Force (N m$^{\\mathregular{-2}}$)"
+                    }
+                },
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output",
+                    "data_field": "force",
+                    "output_image_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\force_pCa_normalized",
+                    "output_image_formats": [
+                        "png"
+                    ],
+                    "formatting": {
+                        "y_axis_label": "Normalized \n force",
+                        "y_normalized": "True",
+                        "y_label_pad": 20
+                    }
+                }
+            ],
+            "rates": [
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output",
+                    "output_image_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\rates",
+                    "output_image_formats": [
+                        "png"
+                    ]
+                }
+            ],
+            "superposed_traces": [
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output",
+                    "output_image_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\superposed_traces",
+                    "output_image_formats": [
+                        "png"
+                    ]
+                }
+            ],
+            "k_tr_analysis": [
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output",
+                    "output_data_file_string": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\k_tr_analysis.xlsx",
+                    "output_image_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\pCa_length_control\\sim_output\\k_tr_analysis",
+                    "k_tr_fit_time_s": [
+                        1.23,
+                        1.7
+                    ],
+                    "output_image_formats": [
+                        "png"
+                    ]
+                }
+            ]
+        }
+    }
+}

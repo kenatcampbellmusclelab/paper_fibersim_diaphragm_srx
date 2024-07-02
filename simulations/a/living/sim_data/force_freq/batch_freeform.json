@@ -1,0 +1,241 @@
+{
+    "FiberSim_batch": {
+        "FiberCpp_exe": {
+            "exe_file": "c:/ken/github/campbellmusclelab/models/fibersim/bin/FiberCpp.exe"
+        },
+        "job": [
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_1_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_1_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_2.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_2_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_2_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_3.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_3_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_3_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_4.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_4_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_4_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_5.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_5_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_5_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_6.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_6_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_6_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_7.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_7_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_7_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_8.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_8_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_8_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_9.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_9_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_9_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_10.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\1\\sim_prot_10_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\1\\sim_options_10_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_1_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_1_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_2.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_2_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_2_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_3.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_3_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_3_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_4.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_4_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_4_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_5.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_5_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_5_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_6.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_6_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_6_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_7.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_7_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_7_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_8.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_8_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_8_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_9.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_9_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_9_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_10.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\2\\sim_prot_10_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\2\\sim_options_10_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_1.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_1_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_1_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_2.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_2_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_2_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_3.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_3_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_3_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_4.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_4_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_4_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_5.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_5_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_5_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_6.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_6_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_6_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_7.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_7_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_7_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_8.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_8_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_8_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_9.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_9_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_9_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\generated\\protocol\\force_freq\\force_freq_10.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\3\\sim_prot_10_r1.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_input\\3\\sim_options_10_r1.json"
+            }
+        ],
+        "batch_figures": {
+            "rates": [
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output",
+                    "output_image_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\rates",
+                    "output_image_formats": [
+                        "png"
+                    ]
+                }
+            ],
+            "superposed_traces": [
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output",
+                    "output_image_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\living\\sim_data\\force_freq\\sim_output\\superposed_traces",
+                    "output_image_formats": [
+                        "png"
+                    ]
+                }
+            ]
+        }
+    }
+}

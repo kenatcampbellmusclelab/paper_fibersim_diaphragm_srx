@@ -1,0 +1,38 @@
+{
+  "FiberSim_characterization": {
+    "FiberCpp_exe": {
+      "relative_to": "false",
+      "exe_file": "c:/ken/github/campbellmusclelab/models/fibersim/bin/FiberCpp.exe"
+    },
+    "model": {
+      "relative_to": "this_file",
+      "model_files": [
+        "base_model.json"
+      ],
+      "options_file": "sim_options.json"
+    },
+    "characterization": [
+      {
+        "type": "freeform",
+        "rand_repeats": 1,
+        "m_n": 144,
+        "relative_to": "this_file",
+        "sim_folder": "../living/sim_data/force_freq",
+        "protocol_files": [
+            "../living/generated/protocol/force_freq/force_freq_1.txt",
+            "../living/generated/protocol/force_freq/force_freq_2.txt",
+            "../living/generated/protocol/force_freq/force_freq_3.txt",
+            "../living/generated/protocol/force_freq/force_freq_4.txt",
+            "../living/generated/protocol/force_freq/force_freq_5.txt",
+            "../living/generated/protocol/force_freq/force_freq_6.txt",
+            "../living/generated/protocol/force_freq/force_freq_7.txt",
+            "../living/generated/protocol/force_freq/force_freq_8.txt",
+            "../living/generated/protocol/force_freq/force_freq_9.txt",
+            "../living/generated/protocol/force_freq/force_freq_10.txt"],
+        "output_image_formats": [ "png" ],
+        "figures_only": "False",
+        "trace_figures_on": "False"
+      }
+    ]
+  }
+}

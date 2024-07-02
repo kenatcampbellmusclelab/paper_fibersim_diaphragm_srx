@@ -1,0 +1,31 @@
+{
+    "FiberSim_batch": {
+        "FiberCpp_exe": {
+            "relative_to": "false",
+            "exe_file": "c:/ken/github/campbellmusclelab/models/fibersim/bin/FiberCpp.exe"
+        },
+        "job": [
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_input\\1\\prot_iso_pCa_45.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_output\\1\\sim_pCa_45.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\generated\\model_1.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_input\\1\\sim_options.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_input\\2\\prot_iso_pCa_45.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_output\\2\\sim_pCa_45.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\generated\\model_2.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_input\\2\\sim_options.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_input\\3\\prot_iso_pCa_45.txt",
+                "results_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_output\\3\\sim_pCa_45.txt",
+                "model_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\generated\\model_3.json",
+                "options_file": "C:\\ken\\GitHub\\CampbellMuscleLab\\Publications\\paper_fibersim_diaphragm_srx\\simulations\\a\\permeabilized\\sim_data\\fv_pCa45\\isometric\\sim_input\\3\\sim_options.json"
+            }
+        ]
+    }
+}
